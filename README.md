@@ -1,2 +1,14 @@
 # royalmksports-notes
-HTML page archive and documentation
+
+发布页面归档目录
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
